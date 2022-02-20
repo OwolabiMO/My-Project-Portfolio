@@ -1,9 +1,11 @@
 # My-Project-Portfolio
+
 This Page host all my data science projects
-## Welcome to my Data sScience Portfolio
 
 ### Name: Moyosore Owolabi
+
 Tool stack: Excel, Power BI and python.
+
 [Linkedin](https://www.linkedin.com/in/owolabi-moyosore-ab07b9189/)
 
 Project 1: Palmoria Case study
